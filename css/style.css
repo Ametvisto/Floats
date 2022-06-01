@@ -1,0 +1,118 @@
+.f-left {
+    float: left;
+}
+.f-right {
+    float: right;
+}
+.clear {
+    clear: both;
+}
+
+.Head-logo {
+    margin-left: 140px;
+    float: left;
+    width: 138px;
+    
+}
+.Navi {
+    float: left;
+    width: 600px;
+    vertical-align: middle;
+    margin-top: 48px;
+    margin-left: 119px;
+}
+.li1,
+.li2,
+.li3,
+.li4,
+.li5 {
+    margin-left: 50px;
+    font-size: 16px;
+}
+.li2 {
+    font-weight: bold;
+}
+
+/* .banner {
+    position: relative;
+    margin-top: 24px;
+}
+
+.child1 {
+    position: absolute;
+    bottom: 246;
+    right: 647;
+    top: 105;
+    width: 306px;
+} */
+/* /*boxes/* */
+
+.popular {
+    color: #FF7A00;
+    width: 120px;
+    font-size: 22px;
+    margin: 84px 0 81px 172px;
+}
+
+
+
+.first-block-image,
+.second-block-image,
+.text-wraper1,
+.text-wraper2 {
+    width: 636px;
+    
+}
+.first-block {
+    margin-left: 88px;
+    margin-right: 52px;
+}
+.second-block {
+    margin-right: 88px;
+}
+.first-block-title,
+.second-block-title,
+.third-block-title,
+.fourth-block-title {
+ color: #181C28;
+ font-weight: bold;
+ font-size: 36px;
+}
+
+.first-block-text,
+.second-block-text,
+.third-block-text,
+.fourth-block-text {
+ color: #7B7B7B;
+ font-size: 16px;
+ margin-top: 22px;
+ margin-bottom: 66px;
+}
+
+.third-block {
+    margin-left: 88px;
+    margin-right: 52px;
+}
+.fourth-block {
+    margin-right: 88px;
+}
+.first,
+.second {
+    margin-top: 13px;
+    color: #FF7A00;
+    width: 138px;
+    font-size: 14px;
+    margin-bottom: 57px;
+}
+.first {
+    margin-left: 88px;
+}
+.second {
+    margin-right: 588px;
+} 
+
+
+.LOAD-MORE {
+  width: 182px;
+  background-color: #FF7A00;
+}
