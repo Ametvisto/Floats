@@ -115,4 +115,28 @@
 .LOAD-MORE {
   width: 182px;
   background-color: #FF7A00;
+  margin-bottom: 134px;
+}
+
+.footer {
+    width: 1322px;
+}
+.box1,
+.box2,
+.box3,
+.box4 {
+    margin-top: 82px;
+    margin-left: 137px;
+    margin-bottom: 387px;
+}
+.box-header {
+    font-weight: bold;
+    color: #282828;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+.box-content {
+    color: #7B7B7B;
+    width: 88px;
+    height: 167px;
 }
