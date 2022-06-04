@@ -34,19 +34,48 @@
     font-weight: bold;
 }
 
-/* .banner {
-    position: relative;
-    margin-top: 24px;
+.Header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+   
+}
+
+.body {
+    padding-top: 96px;
+  
 }
 
 .child1 {
     position: absolute;
-    bottom: 246;
-    right: 647;
-    top: 105;
+    left: 50%;    
+    top: 50%;
+    transform:  translate(-50%, -50%);
+    font-size: 22px;
+    color: #FFFFFF;
+    width: 150px;
+    height: 64px;
+    
+} 
+
+.child2 {
+    position: absolute;
+    left: 52%;    
+    top: 56%;
+    transform:  translate(-50%, -50%);
     width: 306px;
-} */
-/* /*boxes/* */
+    font-size: 22px;
+    color: #FFFFFF;
+    width: 160px;
+    height: 64px;
+
+}
+.banner {
+    margin-top: 156px;
+    width: 100%;
+}
+/* /* /*boxes/* */
 
 .popular {
     color: #FF7A00;
