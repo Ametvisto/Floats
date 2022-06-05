@@ -34,6 +34,11 @@
     font-weight: bold;
 }
 
+.li2:hover {
+    cursor: pointer;
+    
+}
+
 .Header {
     position: fixed;
     top: 0;
@@ -82,6 +87,15 @@
     width: 120px;
     font-size: 22px;
     margin: 84px 0 81px 172px;
+    transition-property: all;
+    
+}
+
+.popular:hover {
+     color: rebeccapurple;
+     font-style: italic;
+     font-size: 50px;
+     cursor: pointer;
 }
 
 
